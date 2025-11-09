@@ -16,6 +16,8 @@ This project builds and compares two models:
 
 Both models are trained and evaluated on a labeled facial expression dataset, with GPU acceleration used to boost performance.
 
+<img width="1200" height="400" alt="cnn_history" src="https://github.com/user-attachments/assets/57eaf91d-e185-4cce-ae7e-c9cb1f0d2d01" />
+
 ---
 
 ## 🚀 Features
@@ -28,6 +30,8 @@ Both models are trained and evaluated on a labeled facial expression dataset, wi
 - Clean modular structure with reusable training and testing functions  
 
 ---
+
+<img width="3000" height="1800" alt="per_class_accuracy" src="https://github.com/user-attachments/assets/945f737a-8e0d-4e26-9548-f27c8de64200" />
 
 ## 🧩 Dataset
 
